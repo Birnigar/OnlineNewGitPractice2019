@@ -6,3 +6,4 @@ BMW X6
 Kia Optima
 Mercedes S500
 Renault
+Mazda 3
