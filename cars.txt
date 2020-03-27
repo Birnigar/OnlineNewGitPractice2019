@@ -9,3 +9,4 @@ Renault
 Mazda 3
 Lexus GX470
 Lincoln MKS
+Subaru WRX STI
