@@ -7,3 +7,5 @@ Kia Optima
 Mercedes S500
 Renault
 Mazda 3
+Lexus GX470
+Lincoln MKS
