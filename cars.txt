@@ -10,3 +10,4 @@ Mazda 3
 Lexus GX470
 Lincoln MKS
 Honda Civic
+Subaru WRX STI
